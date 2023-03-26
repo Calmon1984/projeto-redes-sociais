@@ -7,7 +7,7 @@
 
 <h2>Objetivo do projeto</h2>
 
-<p>Tem como objetivo colocar em prática tudo que aprendemos durante a primeira parte do módulo 5 do curso de HTML5, como por exemplo o uso de iframe.</p>
+<p>Tem como objetivo colocar em prática tudo que aprendemos durante a primeira parte do módulo 4 do curso de HTML5, como por exemplo o uso de iframe.</p>
 
 <h2>Oque foi usado</h2>
 
